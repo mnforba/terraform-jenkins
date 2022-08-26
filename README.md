@@ -10,7 +10,7 @@
 # Instructions
 
 ### Clone the repo
-Run: `git clone https://github.com/dispact/terraform-jenkins.git`
+Run: `git clone https://github.com/mnforba/terraform-jenkins.git`
 
 ### Create a Secrets file
 Create a file called **secrets.tfvars** and populate it with: `my_ip="0.0.0.0"` with 0.0.0.0 being your IP address
